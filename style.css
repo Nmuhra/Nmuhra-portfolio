@@ -222,7 +222,6 @@ section {
   object-fit: cover;
   border-radius: 50%;
   filter: brightness(1.02) contrast(1.06);
-  mix-blend-mode: multiply;
 }
 
 .section__text {
